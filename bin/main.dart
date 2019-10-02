@@ -25,7 +25,12 @@ void main(){
 
 
         }
+     else {
+       print('wrong choice');
+
         }
+        }
+
       }
       func(names);
 
